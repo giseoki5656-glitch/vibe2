@@ -1,0 +1,9 @@
+# 시스템(브라우저) 라이트/다크 설정을 따라간다.
+[theme.light]
+primaryColor = "#2563eb"
+
+[theme.dark]
+primaryColor = "#2563eb"
+
+[server]
+headless = true
